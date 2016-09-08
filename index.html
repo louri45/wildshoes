@@ -12,37 +12,41 @@
     <script src="js/bootstrap.min.js"></script>
   </head>
 
-  <body>    
-
+  <body> 
     	<header>
-    		<nav class="navbar navbar-default">
- 			 <div class="container-fluid">    
-   			 	<div class="navbar-header">
-      			 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        			 <span class="sr-only">Toggle navigation</span>
-        			 <span class="icon-bar"></span>
-        			 <span class="icon-bar"></span>
-        			 <span class="icon-bar"></span>
-      			 </button>
-      			 <a class="navbar-brand" href="#"><img src="medias/logo.png"></a>
-    		    </div>
 
-    
-    			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">    
-      				<ul class="nav navbar-nav">
-        				<li class="active"><a href="#">Qui sommes nous ? <span class="sr-only">(current)</span></a></li>
-        				<li class="active"><a href="#">Nos Chausses-pieds <span class="sr-only">(current)</span></a></li>
-        				<li class="active"><a href="#">Nos Tirs-botte <span class="sr-only">(current)</span></a></li>
-        				<li class="active"><a href="#">Nos Tirs-botte <span class="sr-only">(current)</span></a></li>
-      				</ul>     
+
+
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>       
+      </button>
+      <a class="navbar-brand" href="#"><img src="medias/logo.png" class="logo pull-left" alt="Brand"></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Qui sommes Nous ?</a></li>
+        <li><a href="#">Nos chausses-pied</a></li>
+        <li><a href="#">Nos tirs-botte </a></li>
+        <li><a href="#">Nos produits personnalisé</a></li>
+      </ul>     
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-		</header>
-
+</header>
+<br><br>
 		<section>
 			<div class="container-fluid">
 				<div class="row slide">
+
+				<!-- Carousel -->
+
 					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -54,21 +58,21 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="medias/img/laboslide.jpg" class="imgart" alt="chs violettes">
+      <img src="medias/boisslide.jpg" class="imgart" alt="chs violettes">
       <div class="carousel-caption">
         ...
       </div>
     </div>
 
     <div class="item">
-      <img src="medias/img/boisslide.jpg" class="imgart" alt="chs violettes">
+      <img src="medias/laboslide.jpg" class="imgart" alt="chs violettes">
       <div class="carousel-caption">
         ...
       </div>
     </div>
 
     <div class="item">
-      <img src="medias/img/motivation.jpg" class="imgart" alt="chs violettes">
+      <img src="medias/motivation.jpg" class="imgart" alt="chs violettes">
       <div class="carousel-caption">
         ...
       </div>
@@ -85,237 +89,22 @@
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Suivant</span>
   </a>
-</div>
+  </div>
 
 
 				</div>
 
-				<div class="row centrageart">
-
-					<script type="text/javascript">
-						$('#myModal').on('shown.bs.modal', function () {
-  $('#myInput').focus()
-})
-					</script>
-
-
-
-					<article class="col-lg-4 col-md-6 col-sm-6 col-xs-12 text-center">
-
-					<div>
-					<img src="medias/img/chausse_pied_bois.jpeg" class="imgcentre" alt="Vignettes">
-							<p> L'élégant et classique chausse-pied en bois - Usité a la main - pour le plus grand des conforts   </p>
-					</div>
-					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  						<div class="modal-dialog" role="document">
-    						<div class="modal-content">
-      							<div class="modal-header">
-        							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-       								<h4 class="modal-title" id="myModalLabel">Chausse-pieds en Bois haute qualité</h4>
-      							</div>
-      							<div class="modal-body">
-
-							<img src="http://hand-sport.net/1920-thickbox_default/chaussettes-authentic-indoor-noir-jaune-hummel.jpg" alt="Vignettes">
-							<p> L'élégant et classique chausse-pied en bois - Usité a la main - pour le plus grand des conforts   </p> 
-							<p>Réalisé dans nos usine par nos ébénistes experts, ils s'aura s'adapter parfaitement a votre pied ! Disponible en Magasin.</p>
-
-								</div>
-      							<div class="modal-footer">
-       							 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-      							</div>
-    						</div>
-  						</div>
-					</div>
-
-							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-					</article>
-
-					<article class="col-lg-4 col-md-6 col-sm-6 col-xs-12 text-center">
-
-					<div>
-					<img src="media/img/chausse_pied_metal.jpeg" class="imgcentre" alt="Vignettes">
-							<p> Le solide mais non moins confortable chausse-pieds en métal. Conseillé aux utilisateur trés réguliés</p>
-					</div class="vignettesart">
-					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  						<div class="modal-dialog" role="document">
-    						<div class="modal-content">
-      							<div class="modal-header">
-        							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-       								<h4 class="modal-title" id="myModalLabel">Chausse-pieds en Métal haute qualité</h4>
-      							</div>
-      							<div class="modal-body">
-
-							<img src="http://hand-sport.net/1920-thickbox_default/chaussettes-authentic-indoor-noir-jaune-hummel.jpg" alt="Vignettes">
-							<p> Le solide mais non moins confortable chausse-pieds en métal. Conseillé aux utilisateur trés réguliés</p>
-
-								</div>
-      							<div class="modal-footer">
-       							 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-      							</div>
-    						</div>
-  						</div>
-					</div>
-
-							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-					</article>
-
-					<article class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-					<div>
-					<img src="media/img/chausse_pied_corne.jpeg">
-							<p> Les extavagants chausses-pieds en corne !</p>
-					</div>
-					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  						<div class="modal-dialog" role="document">
-    						<div class="modal-content">
-      							<div class="modal-header">
-        							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-       								<h4 class="modal-title" id="myModalLabel">Chausse-pieds en Corne haute qualité</h4>
-      							</div>
-      							<div class="modal-body">
-
-							<img src="http://hand-sport.net/1920-thickbox_default/chaussettes-authentic-indoor-noir-jaune-hummel.jpg" alt="Vignettes">
-							<p> Les extavagants chausses-pieds en corne ! Leur matière première : des cornes de boeuf, de bélier, de bouc, de buffle, de zébu ou de cerf, provenant du monde entier. </p>
-
-								</div>
-      							<div class="modal-footer">
-       							 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-      							</div>
-    						</div>
-  						</div>
-					</div>
-
-							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-					</article>
-
-					<article class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-					<div>
-					<img src="media/img/téléscopique.jpeg" alt="Vignettes">
-							<p> Les chausse-pied téléscopiques </p>
-					</div>
-					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  						<div class="modal-dialog" role="document">
-    						<div class="modal-content">
-      							<div class="modal-header">
-        							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-       								<h4 class="modal-title" id="myModalLabel">Chausse-pieds Téléscopiques haute qualité</h4>
-      							</div>
-      							<div class="modal-body">
-
-							<img src="http://hand-sport.net/1920-thickbox_default/chaussettes-authentic-indoor-noir-jaune-hummel.jpg" alt="Vignettes">
-							<p> Blablablkablalbalbalbalbalblablablb lablkablbalablbalbalbalb lablablablablbalbalbalbalbalbalbalblablalbalbalbalblab  </p>
-
-								</div>
-      							<div class="modal-footer">
-       							 <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-      							</div>
-    						</div>
-  						</div>
-					</div>
-
-							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-					</article>					
-
-				</div>
-
-			</div>
+				
 		</section>
 
 		<footer>
 		</footer>
 
+<script type="text/javascript">
+						$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').focus()
+})
+					</script>
   </body>
 </html>
 	
-
-
-
-
-	<!--
-	<body>		
-
-			<header>
-				<div id="titre_principal">
-					<div id="logo">
-						<img src="images/logo.png" class= logo alt="Logo wildshoes" />                        			    
-                    </div>
-                </div>
-					
-				<nav id="navigation">
-					<ul>
-						<li><a href="#">Qui sommes nous ? </a></li>
-						<li><a href="#">Nos Chausse-pieds </a></li>
-						<li><a href="#">Nos Tirs-Bottes </a></li>
-						<li><a href="#">Personalisez vous-même !</a></li>
-					</ul>
-				</nav>
-				
-			</header>
-		
-			<section>
-		
-				<div id="qui">
-			
-					<article>
-
-						<h1> Qui sommes nous ?</h1>
-
-						<p> 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae urna nec risus faucibus pulvinar. Vivamus condimentum rhoncus eros, at ornare nibh mattis vel. Mauris vehicula nisi sit amet magna fringilla, quis posuere lacus commodo. Quisque auctor mi ut ex sodales sodales. Curabitur et massa lorem. Etiam eget lacus nec justo sagittis egestas vitae at lacus. Suspendisse porttitor quis odio in rhoncus. Cras nec lorem non lectus porta tincidunt vel ut ex. Quisque viverra est nec sapien ullamcorper, et gravida mi finibus. Vestibulum eget bibendum lacus, at interdum mauris. Quisque suscipit nunc et bibendum facilisis. Pellentesque tempor dui dui, commodo dignissim lacus facilisis ac. Nullam id turpis id arcu ultricies maximus. Phasellus ut neque pellentesque, pretium nibh ac, imperdiet arcu.
-						</p>
-
-					</article>
-				</div>
-			
-				<div id="chaussepied">
-			
-					<article>
-
-						<h1>Nos Chausses-pieds</h1>
-
-						<p> 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae urna nec risus faucibus pulvinar. Vivamus condimentum rhoncus eros, at ornare nibh mattis vel. Mauris vehicula nisi sit amet magna fringilla, quis posuere lacus commodo. Quisque auctor mi ut ex sodales sodales. Curabitur et massa lorem. Etiam eget lacus nec justo sagittis egestas vitae at lacus. Suspendisse porttitor quis odio in rhoncus. Cras nec lorem non lectus porta tincidunt vel ut ex. Quisque viverra est nec sapien ullamcorper, et gravida mi finibus. Vestibulum eget bibendum lacus, at interdum mauris. Quisque suscipit nunc et bibendum facilisis. Pellentesque tempor dui dui, commodo dignissim lacus facilisis ac. Nullam id turpis id arcu ultricies maximus. Phasellus ut neque pellentesque, pretium nibh ac, imperdiet arcu.
-						</p>
-
-					</article>
-			
-				</div>
-			
-				<div id="tirsbotte">
-			
-					<article>
-
-						<h1> Nos Tirs-Botte </h1>
-
-						<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae urna nec risus faucibus pulvinar. Vivamus condimentum rhoncus eros, at ornare nibh mattis vel. Mauris vehicula nisi sit amet magna fringilla, quis posuere lacus commodo. Quisque auctor mi ut ex sodales sodales. Curabitur et massa lorem. Etiam eget lacus nec justo sagittis egestas vitae at lacus. Suspendisse porttitor quis odio in rhoncus. Cras nec lorem non lectus porta tincidunt vel ut ex. Quisque viverra est nec sapien ullamcorper, et gravida mi finibus. Vestibulum eget bibendum lacus, at interdum mauris. Quisque suscipit nunc et bibendum facilisis. Pellentesque tempor dui dui, commodo dignissim lacus facilisis ac. Nullam id turpis id arcu ultricies maximus. Phasellus ut neque pellentesque, pretium nibh ac, imperdiet arcu. 
-						</p>
-						
-					</article>
-			
-				</div>
-			
-				<div id="personalisation">
-			
-					<article>
-						<h1>Vos Chausses-pieds personalisés !</h1>
-						
-						<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae urna nec risus faucibus pulvinar. Vivamus condimentum rhoncus eros, at ornare nibh mattis vel. Mauris vehicula nisi sit amet magna fringilla, quis posuere lacus commodo. Quisque auctor mi ut ex sodales sodales. Curabitur et massa lorem. Etiam eget lacus nec justo sagittis egestas vitae at lacus. Suspendisse porttitor quis odio in rhoncus. Cras nec lorem non lectus porta tincidunt vel ut ex. Quisque viverra est nec sapien ullamcorper, et gravida mi finibus. Vestibulum eget bibendum lacus, at interdum mauris. Quisque suscipit nunc et bibendum facilisis. Pellentesque tempor dui dui, commodo dignissim lacus facilisis ac. Nullam id turpis id arcu ultricies maximus. Phasellus ut neque pellentesque, pretium nibh ac, imperdiet arcu. 
-						<p>
-
-					</article>
-			
-				</div>
-					
-			</section>
-		
-			<footer>
-				<p> Wildshoes - 2016 Copyright </p>
-			</footer>
-				
-	</body>
-</html>
-	
---> sdccs

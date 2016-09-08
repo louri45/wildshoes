@@ -1,13 +1,33 @@
 .imgart
 {
-	width: 500px;
+	width: 1920px;
+	height: 1080px;
 	margin-left: auto;
     margin-right: auto;
 
 }
 
-.imgcentre
+.logo
 {
-	margin-right: auto;
-	margin-left: auto;
+	height: 40px;
+	}
+
+body
+{
+	background-color: #bf8040;
+}
+
+.nav
+{
+	color: #916f6f;
+}
+
+.navbar .navbar-nav
+{
+	margin-top: 25px
+}
+
+.nav navbar-nav navbar-right
+{
+	font-size: 20px;
 }
