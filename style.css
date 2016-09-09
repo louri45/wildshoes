@@ -17,20 +17,6 @@ body
 	background-color: #bf8040;
 }
 
-.nav
-{
-	color: #916f6f;
-}
-
-.navbar .navbar-nav
-{
-	margin-top: 25px;
-}
-
-.nav navbar-nav navbar-right
-{
-	font-size: 20px;
-}
 
 .top-buffer { margin-top:50px; }
 
@@ -40,26 +26,9 @@ body
 	height: 100%;
 }
 
-.opt1
+.item
 {
-	height:20px !important; 
-    min-height:40px !important;
-    padding-top: 8px;
+	max-height: 1080px;
+
 }
 
-.opt2 
-{
-    height: 25px !important;
-    padding-top: 18px !important;
-    min-height: 20px !important;
-}
-
-.bs-example{
-    margin: 20px;
-}
-
-.nav > li > a {
-    position: relative;
-    display: block;
-    padding: 10px 37px;
-}
