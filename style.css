@@ -55,7 +55,7 @@ body
 {
 	font-family: 'Lobster', cursive, arial, verdana;
 	color: white;
-	background-color: white;
+	background-color: #A76726;
 }
 
 
@@ -107,3 +107,9 @@ body
 
 .modal-body {color: black; text-align: justify;} 
 .modal-title {color: black; text-align: center ;}
+
+.btn-lg {margin-bottom: 10px;}
+
+.font-nav {font-size: 2em;}
+
+.carousel { margin-bottom: -10px; }
