@@ -71,6 +71,7 @@ body
 	
 }
 
+
 .row img{margin-left: auto;
     margin-right: auto; margin-bottom: 10px;}
 
@@ -114,4 +115,24 @@ body
 
 .carousel { margin-bottom: -10px; }
 
-.jumbotron { color:black; }
+.jumbotron 
+{ 
+	color:black; margin-bottom: 0px
+	background: red;
+	margin-bottom: 0px;
+	background-image: url("medias/cool-leather-wallpaper-1920x1200.png");
+	color: white;
+}
+
+.modal-body {
+    /* new custom width */
+    width: 1150px;
+    /* must be half of the width, minus scrollbar on the left (30px) */
+    margin-left: -575px;
+}
+
+ h2, h4
+ {
+ 	border-style: groove;
+    border-width: 3px;
+ }
