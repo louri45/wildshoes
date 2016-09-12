@@ -6,7 +6,7 @@
 
 .imgart
 {
-	padding-top: 131px;
+	padding-top: 123px;
 	width: 1920px;
 	height: 1080px;
 	margin-left: auto;
@@ -34,7 +34,7 @@
 	height: 100%;
 	padding-left: 10px;
 	}
-	.imgart {padding-top: 10px;		}
+	.imgart {padding-top: 10px;}
 	}
 
 }
@@ -56,6 +56,7 @@ body
 	font-family: 'Lobster', cursive, arial, verdana;
 	color: white;
 	background-color: #A76726;
+	font-size: 1.8em;
 }
 
 
@@ -111,7 +112,9 @@ body
 .imginfo { 
 	height: 100%; 
 	width: 100%;
-	padding-top: 1%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	
 }
 
 .modal-body {color: black; text-align: justify;} 
@@ -147,3 +150,13 @@ body
  	border-style: groove;
     border-width: 3px;
  }
+
+.modal-dialog
+{
+  width: 900px;
+}
+
+#anchor-qui
+{
+	margin-top: -174px;
+}

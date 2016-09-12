@@ -12,7 +12,7 @@
     <script src="js/bootstrap.js"></script>
     <script type="text/javascript"></script>
 
-
+    
   </head>
 
   <body> 
@@ -36,10 +36,10 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right font-nav">
-        <li class="opt1"><a href="#" class="opt2">Qui sommes Nous ?</a></li>
-        <li class="opt1"><a href="#" class="opt2">Nos chausses-pied</a></li>
-        <li class="opt1"><a href="#" class="opt2">Nos tirs-botte </a></li>
-        <li class="opt1"><a href="#" class="opt2">Nos produits personnalisé</a></li>
+        <li class="opt1"><a href="#anchor-qui" class="opt2">Qui sommes Nous ?</a></li>
+        <li class="opt1"><a href="#anchor-chausse" class="opt2">Nos chausses-pied</a></li>
+        <li class="opt1"><a href="#anchor-tire" class="opt2">Nos tirs-botte </a></li>
+        <li class="opt1"><a href="#anchor-perso" class="opt2">Nos produits personnalisé</a></li>
       </ul>     
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
@@ -76,7 +76,7 @@
       <img src="medias/wood.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
       <h1>Matière Brute :</h1>
-      <p>La réalisation de nos produits se fat a partir de produit noble importé depuis la france</p>
+      <p>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</p>
       </div>
     </div>
 
@@ -104,7 +104,8 @@
 
   <!-- Info entreprise -->
 
-  <div class="row top-buffer"> 
+  <div class="row top-buffer" > 
+    <div id="anchor-qui"></div>
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <img src="medias/chausse-pied-660x440.jpg" class="img-responsive img-rounded imginfo" alt="photo_chausse_pied">
     </div>
@@ -128,7 +129,7 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
 
   <!-------------------------------- Espace Chausse pied ------------------------>
 
-  <div class="row top-buffer">
+  <div class="row top-buffer " id="anchor-chausse">
 
   <!------------------------------ Chausse pied en bois ---------------------------------------->
 
@@ -273,9 +274,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   </div>
 
-  <!-- Espace Tir-botte -->
+  <!-- Espace Tirebotte -->
 
-  <div class="row top-buffer">
+  <div class="row top-buffer tire" id="anchor-tire">
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos tirebottes en bois</h2>
@@ -380,12 +381,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
   <!-- Espace Produits personnalisés -->
 
   <div class="container-fluid">
-    <div class="row top-buffer">
+    <div class="row top-buffer " id="anchor-perso">
       <div class="jumbotron">
         <h1>Produits Personnalisés</h1>
         <p>Si l'envie vous prends, faites vous personnaliser le produit de votre choix en y ajoutant une gravure, en changeant la couleur ou le matériaux et en choisissant ca taille !</p>
         <!-- Trigger the modal with a button -->
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModaljumbo">Découvrez toutes nos options !</button>
+<button type="button" class="btn btn-info btn-lg btn-warning" data-toggle="modal" data-target="#myModaljumbo">Découvrez toutes nos options !</button>
 
 <!-- Modal -->
 <div id="myModaljumbo" class="modal fade" role="dialog">
@@ -397,8 +398,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title">Produits Personnalisés</h4>
       </div>
-      <div class="modal-body">
-        <img src="medias/jumbotron.jpg">
+      <div class="modal-body jumb">
+        <img src="medias/jumbotron.jpg" class="img-responsive">
         <p>!Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -447,6 +448,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 		</section>
 
 		<footer>
+    <a href="#">haut de page</a>
 		</footer>
   </body>
 </html>
