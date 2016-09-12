@@ -145,18 +145,18 @@ body
 	color: white;
 }
 
- h2, h4
- {
- 	border-style: groove;
-    border-width: 3px;
- }
 
-.modal-dialog
+@media screen (min-width: 900){.modal-dialog
 {
   width: 900px;
-}
+}}
 
 #anchor-qui
 {
 	margin-top: -174px;
 }
+
+p
+{ 
+	font-family: arial;
+ }
