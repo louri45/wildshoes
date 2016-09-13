@@ -103,7 +103,7 @@
 	</div>
 
   <!-- Info entreprise -->
-
+  
   <div class="row top-buffer" > 
     <div id="anchor-qui"></div>
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -111,7 +111,7 @@
     </div>
     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
     <h2>Qui somme nous ?</h2>
-    <p>
+    <p style="padding-bottom: 125px;">
 
 AD Bois à Marquette-lez-Lille, près de Lille, dans le Nord (59), est votre spécialiste en menuiseries et fenêtres.<br/><br/>
 
@@ -123,8 +123,10 @@ M. ROUSSELLE et son équipe vous apportent les conseils, l'expérience et le sav
 
 AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obtenir de plus amples renseignements.<br/><br/>
  </p>
+  <div id="anchor-chausse"></div>
     </div>
 
+  </div>
   </div>
 
   <!-------------------------------- Espace Chausse pied ------------------------>
@@ -154,7 +156,17 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
           </div>
           <div class="modal-body">
             <img src="medias/chausse-pied-prestige.jpg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-            <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir. La très belle finition vernie de ce bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Description :</h3>
+            <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. </p>
+            <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
+            <h3>Le bois :</h3>
+            <p>Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. </p>
+            <h3>Finition :</h3>
+            <p> La très belle finition vernie de ce bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Détails :</h3>
+            <p>Longueur : 55 cm</p>
+            <p>Poids : 128g</p>
+            <p>Couleur : rouge marbré de noir</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -190,7 +202,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
           </div>
           <div class="modal-body">
             <img src="medias/model_visuel_ws_600x600_metal.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.</p>
+            <h3>Description :</h3>
+              <p>Chausse pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>
+              <p>Ce chausse pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse pied d'épouser parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage. .</p>
+            <h3>Le Métal :</h3>
+              <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide </p>
+            <h3>Finition :</h3>
+              <p> La très belle finition brillante en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Détails :</h3>
+              <p>Longueur : 19 cm</p>
+              <p>Poids : 54 g</p>
+              <p>Couleur : gris métal</p>
+              <p>Composition : 100% acier inox</p>
+              <p>Fabrication : Europe</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -225,7 +249,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
           </div>
           <div class="modal-body">
             <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied_corne" />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.</p>
+            <h3>Description :</h3>
+            <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. </p>
+            <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
+            <h3>Le bois :</h3>
+            <p>Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. </p>
+            <h3>Finition :</h3>
+            <p> La très belle finition vernie de ce bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Détails :</h3>
+            <p>Longueur : 55 cm</p>
+            <p>Poids : 128g</p>
+            <p>Couleur : rouge marbré de noir</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -244,7 +278,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       </p>
 
       <!-- Bouton modal -->
-      <div class="text-center">
+      <div class="text-center" id="anchor-tire">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#myModal4">En savoir plus</button>
       </div>
 
@@ -259,7 +293,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
           </div>
           <div class="modal-body">
             <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.</p>
+            <h3>Description :</h3>
+            <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. </p>
+            <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
+            <h3>Le bois :</h3>
+            <p>Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. </p>
+            <h3>Finition :</h3>
+            <p> La très belle finition vernie de ce bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Détails :</h3>
+            <p>Longueur : 55 cm</p>
+            <p>Poids : 128g</p>
+            <p>Couleur : rouge marbré de noir</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -274,9 +318,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   </div>
 
-  <!-- Espace Tirebotte -->
+  <!-------------------------- Espace Tirebotte ------------------------>
 
-  <div class="row top-buffer tire" id="anchor-tire">
+  <div class="row top-buffer tire">
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos tirebottes en bois</h2>
@@ -351,7 +395,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
       </p>
       <!--------------- Bouton de modal ---------------->
-      <div class="text-center">
+      <div class="text-center" id="anchor-perso">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte3">
       En savoir plus
       </button></div>
