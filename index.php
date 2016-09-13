@@ -129,7 +129,7 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
 
   <!-------------------------------- Espace Chausse pied ------------------------>
 
-  <div class="row top-buffer " id="anchor-chausse">
+  <div class="row top-buffer ">
 
   <!------------------------------ Chausse pied en bois ---------------------------------------->
 
@@ -396,19 +396,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Produits Personnalisés</h4>
+        <h4 class="modal-title">Nos Produits Personnalisés</h4>
       </div>
       <div class="modal-body jumb">
         <img src="medias/jumbotron.jpg" class="img-responsive">
-        <p>!Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+        <!------------------- Contenu modal perso ------------>
+
+        <p style="text-align: center;"><q>Nous vous proposons dans cette section de choisir, pas à pas, les composants que vous souhaitez retrouver dans votre produit</q></p>
+
+        <h3>Le matériau :</h3>
+        <p>Essence même de nos produit, nous vous proposons différents matériaux : <b>Bois</b>, <b>Métal</b> ou bien <b>Corne</b> !</p>
+
+        <h3>La Gravure </h3>
+        <p>Nous sommes équipés des toutes dernières <i>technologies de gravures</i> nous permettant de vous proposer l'apposition d'un <b>texte</b> ou d'un <b>dessin</b> sur votre produit </p>
+
+        <h3>Le Pommeau </h3>
+        <p>A votre convenance, nous pouvons ajouter un pommeau (Plaqué Or ou Argent) sur votre produit pour faciliter l'utilisation</p>
+
+        <h3>La couleur</h3>
+        <p>Finalement, votre dernier choix sera de choisir de laisser brut ou d'appliquer une couleur. Voici les couleurs que nous proposons : Blanc, Noir, Rouge Profond, Bleu royal et Méli-Mélo</p>
+
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
       </div>
     </div>
 
@@ -426,7 +437,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   <div class="row top-buffer">
     
-    <div class="col-lg-4 col-lg-offset-2 col-md-offset-2 col-sm-12 col-xs-12 bloccouleur">
+    <div class="col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-6 col-xs-12 bloccouleur">
       <h2>Nous Contacter</h2>
       <form action="" method="POST" enctype="multipart/form-data" class="formulaire">
         <input name="action" value="submit" type="hidden"> Votre Nom:<br>
@@ -434,21 +445,45 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
         <input name="email" size="30" type="text"><br> Votre message:<br>
         <textarea name="message" rows="7" cols="30">
         </textarea><br>
-        <input value="Send email" type="submit">
+        <input value="Envoyer !" type="submit" class="btn-warning">
       </form>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 bloccouleur">
+    <div class="col-lg-offset-2 col-lg-4 col-md-5 col-sm-6 col-xs-12 bloccouleur">
       <h2>Où Nous trouver ?</h2>
-      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.8915286660194397%2C47.89265429192882%2C1.8958550691604614%2C47.894204558013264&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=19/47.89343/1.89369">Afficher une carte plus grande</a></small>
+      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
     </div>
   </div>
-
 				
 		</section>
 
 		<footer>
-    <a href="#">haut de page</a>
+
+      <div class="container-fluid">
+
+          <div class="row" style="background-image:none;">
+            <div class="col-lg-4">
+              <a href="#">Haut de page</a>
+            </div>
+            <div class="col-lg-4">
+              <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h1>
+              <ul style="list-style-type:none;">
+                <li class="foot"><a href="https://www.facebook.com/wildcodeschool"><img src="medias/FB.png" class="img-responsive"></a></li>
+                <li class="foot"><a href="https://twitter.com/wildcodeschool"><img src="medias/Twitter.png" class="img-responsive"></a></li>
+                <li class="foot"><a href="https://www.linkedin.com/edu/wild-code-school-192048"><img src="medias/linkedin.png" class="img-responsive"></a></li>                
+              </ul>
+            </div>
+            <div class="col-lg-4">
+                            
+            </div>
+          </div>
+          <div class="row" style="background-image:none;">
+            <div class="col-lg-offset-5 col-lg-2 col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
+              <p style="text-align:center;">Copyright 2016 - Wildshoes - Wild Code School</p>
+            </div>
+          </div>
+      </div>
+    
 		</footer>
   </body>
 </html>

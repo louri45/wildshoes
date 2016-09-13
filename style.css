@@ -14,6 +14,10 @@
 
 }
 
+.navbar
+{ 
+	background-color: #cd9965;
+ }
 
 
 .navbar-collapse.collapse
@@ -55,7 +59,7 @@ body
 {
 	font-family: 'Lobster', cursive, arial, verdana;
 	color: white;
-	background-color: #A76726;
+	background-color: #cd9965;
 	font-size: 1.8em;
 }
 
@@ -153,10 +157,53 @@ body
 
 #anchor-qui
 {
-	margin-top: -174px;
+	margin-top: -150px;
 }
+
+#anchor-chausse
+{ 
+	margin-top: -150px;
+ }
 
 p
 { 
 	font-family: arial;
  }
+
+h3
+{ 
+	text-decoration: underline;
+ }
+
+.col-xs-12
+{ 
+	text-align: center;
+ }
+
+footer
+{ 
+	background-color: black;
+	margin-top: 50px;
+
+ }
+
+.bloccouleur
+{ 
+	margin-bottom: 20px;
+
+ }
+
+.foot
+{
+ 	display: inline-block;
+ 	align-items: center;
+ 	margin-right: 76px;
+ 	margin-top: 10px;
+ }
+
+ a
+{
+color: white;
+text-decoration: none;
+}
+
