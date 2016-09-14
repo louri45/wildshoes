@@ -19,7 +19,7 @@
 
 .navbar
 { 
-	background-color: #cd9965;
+	background-color: #cc9966;
  }
 
 
@@ -38,8 +38,7 @@
 
 @media screen and (min-width: 200px) and (max-width: 767px) {
 
-	.logo
-{
+	.logo{
 	height: 100%;
 	padding-left: 10px;
 	}
@@ -49,9 +48,12 @@
 }
 .navbar
 {
-	background-color: white;
 	color: black;
 	font-size: 1.8em;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
 }
 
 .navbar-right {
@@ -72,7 +74,7 @@ body
 {
 	font-family: 'Lobster', cursive, arial, verdana;
 	color: white;
-	background-color: #cd9965;
+	background-color: #cc9966;
 	font-size: 1.8em;
 }
 
@@ -235,7 +237,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: blue;
+    color: white;
 }
 
 /* selected link */
@@ -243,4 +245,14 @@ a:active {
     color: grey;
 }
 
+.go_top{
+    background: url('medias/arrow-up-3-128.png') no-repeat;
+    display: none;
+    position: fixed;
+    width: 96px;            
+    height: 96px;            
+    bottom: 0;                
+    right: 0;                
+    text-indent: -9999px;
+}
 

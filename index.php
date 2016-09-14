@@ -11,40 +11,39 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script type="text/javascript"></script>
+    <script type="text/javascript" src="scrolltop.js" ></script>
 
     
   </head>
 
-  <body> 
+  <body>
+    
 
-    	<header>
+    <header>
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>       
+            </button>
+            <a class="navbar-brand navbar-left" href="#"><img src="medias/logo.png" class="logo pull-left img-responsive" alt="Wildshoes"></a>
+          </div>
 
-
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>       
-      </button>
-      <a class="navbar-brand navbar-left" href="#"><img src="medias/logo.png" class="logo pull-left img-responsive" alt="Wildshoes"></a>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right font-nav">
-        <li class="opt1"><a href="#anchor-qui" class="opt2">Qui sommes Nous ?</a></li>
-        <li class="opt1"><a href="#anchor-chausse" class="opt2">Nos chausses-pied</a></li>
-        <li class="opt1"><a href="#anchor-tire" class="opt2">Nos tirs-botte </a></li>
-        <li class="opt1"><a href="#anchor-perso" class="opt2">Nos produits personnalisé</a></li>
-      </ul>     
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-</header>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right font-nav">
+              <li class="opt1"><a href="#anchor-qui" class="opt2">Qui sommes Nous ?</a></li>
+              <li class="opt1"><a href="#anchor-chausse" class="opt2">Nos chausses-pied</a></li>
+              <li class="opt1"><a href="#anchor-tire" class="opt2">Nos tirs-botte </a></li>
+              <li class="opt1"><a href="#anchor-perso" class="opt2">Nos produits personnalisé</a></li>
+            </ul>     
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+    </header>
 
 <br/>
 
@@ -67,24 +66,24 @@
     <div class="item active">
       <img src="medias/boisslide.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Atelier au Lab'O :</h1>
-      <h2>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
+      <h1>Atelier au Lab'O </h1>
+      <h2 class="slidemobile">Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
       </div>
     </div>
     
     <div class="item">
       <img src="medias/wood.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Matière Brute :</h1>
-      <h2>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
+      <h1>Matière Brute </h1>
+      <h2 class="slidemobile">La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
       </div>
     </div>
 
     <div class="item">
       <img src="medias/motivation.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Coaching de l'équipe :</h1>
-      <h2>Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>       
+      <h1>Coaching de l'équipe </h1>
+      <h2 class="slidemobile">Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>       
       </div>
     </div>
        
@@ -105,26 +104,26 @@
 
   <!-- *******************Info entreprise************************ -->
   
-  <div class="row top-buffer" > 
+  <div class="row" > 
     
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <img src="medias/chausse-pied-660x440.jpg" class="img-responsive imginfo" alt="photo_chausse_pied">
     </div>
     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-    <h2>Qui somme nous ?</h2>
-    <p style="padding-bottom: 125px;">
+      <h2>Qui somme nous ?</h2>
+      <p style="padding-bottom: 150px;">
 
-AD Bois à Marquette-lez-Lille, près de Lille, dans le Nord (59), est votre spécialiste en menuiseries et fenêtres.<br/><br/>
+      Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretient et le choix des chausses pieds et autres tirebottes<br>
 
-Depuis 1990, nous sommes à votre écoute pour la réalisation de vos projets. Nous pouvons effectuer la simple pose de menuiserie ou la création et la réalisation d'aménagements personnalisés.<br/><br/>
+      Nous avons alors décider de fédérer cordonniers, chausseurs et fabricants pour fonder Monsieur Chaussure, premier spécialiste indépendant de l'entretien chaussure.<br><br>
 
-Nous intervenons pour les petites charpentes, la reproduction à l'identique, le bardage bois et les terrasses bois ; mais également pour l'agencement de salles de bains ou de cuisines et l'aménagement d'escaliers, de balcons et pour l'isolation de combles.<br/><br/>
+      Les produits proposés aux clients sont testés en usine, les conseils sont approuvés par des professionnels et un service de conseillers reste disponible tous les jours pour tout complément d'informations.<br>
 
-M. ROUSSELLE et son équipe vous apportent les conseils, l'expérience et le savoir-faire que vous attendez d'une entreprise artisanale et ce dans le respect des règles du métier de menuisier.<br/>
+      Le site www.Wildshoes.com est exclusivement géré par l'équipe Wildshoes. L'absence d'intermédiaire nous permet ainsi de corriger en moins de 24h tous problèmes identifiés par nos internautes.<br><br>
 
-AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obtenir de plus amples renseignements.<br/><br/>
- </p>
-  <div id="anchor-chausse"></div>
+      Nos fournisseurs de matériaux sont exclusivement français et allemand. Les produits que nous vendons sont fabriqués à <strong>100% en France</strong>.
+      Monsieur Chaussure se réserve le droit de refuser un produit qui ne respecte pas le niveau de qualité exigé par Monsieur Chaussure.</p>  
+    <div id="anchor-chausse"></div>
     </div>
 
   </div>
@@ -521,11 +520,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
       <h2>Où Nous trouver ?</h2>
-      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
+      <iframe width="auto" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
     </div>
     <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur" style="text-align:center;">
             <h2>Notre adresse :</h2>
-            <p style="font-family: 'lobster';">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 0810810810 (Appels non sur-taxés)<br/>
+            <p>WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
             </p>
           
     </div>
@@ -539,7 +538,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
           <div class="row" style="background-image:none;">
             <div class="col-lg-1">
-              <a href="#">Haut de page</a>
+              <a href="#" class="go_top img-responsive">Remonter</a>
             </div>
             <div class="col-lg-offset-3 col-lg-4 col-md-offset-1 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
               <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h1>
@@ -559,6 +558,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       </div>
     
 		</footer>
+
   </body>
 </html>
 	
