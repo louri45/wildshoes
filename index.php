@@ -99,12 +99,12 @@
     <span class="sr-only">Suivant</span>
   </a>
   </div>
-  <span id="anchor-qui"></span>
+  <span id="anchor-qui" style="display:none;"><br><br></span>
 	</div>
 
   <!-- *******************Info entreprise************************ -->
   
-  <div class="row" > 
+  <div class="row top-buffer" > 
     
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <img src="medias/chausse-pied-660x440.jpg" class="img-responsive imginfo" alt="photo_chausse_pied">
@@ -153,7 +153,7 @@
     <!-- Contenus Modal -->
 
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -163,7 +163,6 @@
             <img src="medias/chausse-pied-prestige.jpg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
             <h3>Description :</h3>
               <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. </p>
-              <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
             <h3>Le bois :</h3>
               <p>Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. </p>
             <h3>Finition :</h3>
@@ -199,7 +198,7 @@ Ce chausse pied inox de petite taille est réellement l'accessoire standard et i
       <!-- Contenus Modal -->
 
     <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -208,8 +207,7 @@ Ce chausse pied inox de petite taille est réellement l'accessoire standard et i
           <div class="modal-body">
             <img src="medias/model_visuel_ws_600x600_metal.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
             <h3>Description :</h3>
-              <p>Chausse pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>
-              <p>Ce chausse pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse pied d'épouser parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage. .</p>
+              <p>Chausse pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>              
             <h3>Le Métal :</h3>
               <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide </p>
             <h3>Finition :</h3>
@@ -246,7 +244,7 @@ Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le 
 <!-- Contenus Modal -->
 
     <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-      <div class="modal-dialog" role="document">
+      <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -254,8 +252,7 @@ Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le 
           </div>
           <div class="modal-body">
             <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied_corne" />
-            <h3>Description :</h3>
-              <p>Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le plus petit, le plus léger et le plus économique d'entre eux. C'est un accessoire indispensable pour enfiler vos chaussures ainsi que vos bottes plus simplement, sans faire de pli et sans abîmer les contreforts de vos souliers</p>
+            <h3>Description :</h3>              
               <p>Ce chausse pied a une forme incurvée qui vous permet de le prendre en main simplement et d'épouser la forme du talon afin de ne pas abîmer ni votre talon, ni la chaussure en la gardant ouverte. La surface lisse et sans aspérité du plastique permet de glisser votre talon facilement dans la chaussure.</p>
             <h3>La Corne :</h3>
               <p>Il est fabriqué artisanalement dans de la corne, matière 100% naturelle. Chaque chausse-pied est unique et présente des couleurs variées, laissant transparaître la beauté d'une matière intemporelle. </p>
@@ -264,9 +261,7 @@ Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le 
             <h3>Détails :</h3>
               <p>Longueur : 15,7 cm</p>
               <p>Poids : 15 g</p>
-              <p>Couleur : imitation corne</p>
-              <p>Composition : plastique</p>
-              <p>Fabrication : Europe</p>
+              <p>Couleur : corne</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -294,7 +289,7 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
     <!-- Contenus Modal -->
 
     <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -304,7 +299,6 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
             <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
             <h3>Description :</h3>
             <p>Ce chausse pied prestige fabriqué dans un métal de grande qualité vous permet d'enfiler toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
-            <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
             <h3>Le Métal :</h3>
             <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide</p>
             <h3>Finition :</h3>
@@ -344,7 +338,7 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
       <h2 style="">Nos tirebottes en bois</h2>
       <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
       <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
+Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Essayez donc notre tire botte en bois !
       </p>
 
 <!-- ******************* Tirebotte en Bois ************************ -->
@@ -355,7 +349,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
 <!-- Modal -->
 <div class="modal fade" id="tirebotte1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -379,7 +373,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       <h2 style="">Nos tirebottes en métals</h2>
       <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="tirebotte en métal" />
       <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
+      Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures.Conçu pour pour tout type de chasse. Adapté pour la pêche et l'observation de la faune sauvage. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !
       </p>
       <!--------------- Bouton de modal ---------------->
       <div class="text-center">
@@ -389,7 +383,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
 <!-- Modal -->
 <div class="modal fade" id="tirebotte2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -421,7 +415,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   <!-- ******************* Modal ************************ -->
 <div class="modal fade" id="tirebotte3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -462,7 +456,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
 <!-- Modal -->
 <div id="myModaljumbo" class="modal fade" role="dialog">
-  <div class="modal-dialog">
+  <div class="modal-dialog modal-lg">
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -520,9 +514,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
       <h2>Où Nous trouver ?</h2>
-      <iframe width="auto" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
+      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
     </div>
-    <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur" style="text-align:center;">
+    <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur">
             <h2>Notre adresse :</h2>
             <p>WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
             </p>

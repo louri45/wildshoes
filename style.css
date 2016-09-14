@@ -38,7 +38,8 @@
 
 @media screen and (min-width: 200px) and (max-width: 767px) {
 
-	.logo{
+	.logo
+{
 	height: 100%;
 	padding-left: 10px;
 	}
@@ -168,7 +169,7 @@ body
 
 @media screen (min-width: 900){.modal-dialog
 {
-  width: 900px;
+  width: 1000px;
 }}
 
 #anchor-qui
@@ -190,6 +191,7 @@ p
 h3
 { 
 	text-decoration: underline;
+	text-align: left;
  }
 
 .col-xs-12
@@ -254,5 +256,15 @@ a:active {
     bottom: 0;                
     right: 0;                
     text-indent: -9999px;
+}
+
+.modal-header, .modal-footer
+{
+	background-color: #cc9966;
+}
+
+.modal-dialog
+{
+	height: 100%;
 }
 
