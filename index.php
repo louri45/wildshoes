@@ -68,7 +68,7 @@
       <img src="medias/boisslide.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
       <h1>Atelier au Lab'O :</h1>
-      <p>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</p>
+      <h2>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
       </div>
     </div>
     
@@ -76,7 +76,7 @@
       <img src="medias/wood.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
       <h1>Matière Brute :</h1>
-      <p>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</p>
+      <h2>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
       </div>
     </div>
 
@@ -84,7 +84,7 @@
       <img src="medias/motivation.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
       <h1>Coaching de l'équipe :</h1>
-      <p>Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</p>       
+      <h2>Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>       
       </div>
     </div>
        
@@ -144,7 +144,7 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
       <h2 style="">Nos chausses-pieds en bois</h2>
       <img src="medias/chausse-pied-prestige.resized.jpg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-      <p>Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.</p>
+      <p>Avec ce <strong>chausse pied prestige</strong>, optez autant pour un bel objet que pour un <strong>accessoire résistant</strong>, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides</p>
 
       <!-- Bouton modal -->
       <div class="text-center">
@@ -507,7 +507,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   <div class="row top-buffer">
     
-    <div class="col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-6 col-xs-12 bloccouleur">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
       <h2>Nous Contacter</h2>
       <form action="" method="POST" enctype="multipart/form-data" class="formulaire">
         <input name="action" value="submit" type="hidden"> Votre Nom:<br>
@@ -519,14 +519,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       </form>
     </div>
 
-    <div class="col-lg-offset-2 col-lg-4 col-md-5 col-sm-6 col-xs-12 bloccouleur">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
       <h2>Où Nous trouver ?</h2>
-        <div>
-          <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
-        </div>
-        <div>
-        </div>
-
+      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
+    </div>
+    <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur" style="text-align:center;">
+            <h2>Notre adresse :</h2>
+            <p style="font-family: 'lobster';">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 0810810810 (Appels non sur-taxés)<br/>
+            </p>
+          
     </div>
   </div>
 				
@@ -537,21 +538,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       <div class="container-fluid">
 
           <div class="row" style="background-image:none;">
-            <div class="col-lg-4">
+            <div class="col-lg-1">
               <a href="#">Haut de page</a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-offset-3 col-lg-4 col-md-offset-1 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
               <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h1>
               <ul style="list-style-type:none;">
-                <li class="foot"><a href="https://www.facebook.com/wildcodeschool"><img src="medias/FB.png" class="img-responsive"></a></li>
-                <li class="foot"><a href="https://twitter.com/wildcodeschool"><img src="medias/Twitter.png" class="img-responsive"></a></li>
-                <li class="foot"><a href="https://www.linkedin.com/edu/wild-code-school-192048"><img src="medias/linkedin.png" class="img-responsive"></a></li>                
+                <li class="foot"><a href="https://www.facebook.com/wildcodeschool"><img src="medias/FB.resized.png" class="img-responsive"></a></li>
+                <li class="foot"><a href="https://twitter.com/wildcodeschool"><img src="medias/Twitter.resized.png" class="img-responsive"></a></li>
+                <li class="foot"><a href="https://www.linkedin.com/edu/wild-code-school-192048"><img src="medias/linkedin.resized.png" class="img-responsive"></a></li>                
               </ul>
-            </div>
-            <div class="col-lg-4">
-                            
-            </div>
+            </div>            
           </div>
+
           <div class="row" style="background-image:none;">
             <div class="col-lg-offset-5 col-lg-2 col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
               <p style="text-align:center;">Copyright 2016 - Wildshoes - Wild Code School</p>
