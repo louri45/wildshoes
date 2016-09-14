@@ -426,42 +426,42 @@ Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bi
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos gratoires à botte</h2>
       <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="gratoire à botte" />
-      <p>
-Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire à bottes luxez. Ce tapis résistant en poils de fibre de coco avec cadre métallique galvanisé résiste aux intempéries. Il est très résistant et durable. La saleté restera à votre porte avec notre produit.
+      <p>Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire à bottes luxez. Ce tapis résistant en poils de fibre de coco avec cadre métallique galvanisé résiste aux intempéries. Il est très résistant et durable. La saleté restera à votre porte avec notre produit.
       </p>
-  <!-- ******************* Bouton Modal ************************ -->
-      <div class="text-center" id="anchor-perso">
-      <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte3">
-      En savoir plus
-      </button></div>
 
-  <!-- ******************* Modal ************************ -->
-<div class="modal fade" id="tirebotte3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Nos gratoires à botte</h4>
-      </div>
-      <div class="modal-body">
-          <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-          <h3>Description :</h3>
-          <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
-          <h3>Métal et fibres:</h3>
-          <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
-          <h3>Détails :</h3>
-          <p>Hauteur(cm) 12 centimètres,
-            Longueur(cm) 24 centimètres,
-            Largeur(cm) 16.50 centimètres</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
-      </div>
-    </div>
-  </div>
-</div>
-    </div>
+        <!-- ******************* Bouton Modal ************************ -->
 
+        <div class="text-center" id="anchor-perso">
+        <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte3">
+        En savoir plus
+        </button></div>
+
+        <!-- ******************* Modal ************************ -->
+        <div class="modal fade" id="tirebotte3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Nos gratoires à botte</h4>
+              </div>
+              <div class="modal-body">
+                  <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
+                  <h3>Description :</h3>
+                  <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
+                  <h3>Métal et fibres:</h3>
+                  <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
+                  <h3>Détails :</h3>
+                  <p>Hauteur(cm) 12 centimètres,
+                    Longueur(cm) 24 centimètres,
+                    Largeur(cm) 16.50 centimètres</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
   </div>
 
   <div style="margin-bottom:100px; display:hidden;"><span id="anchor-perso"></span></div>
@@ -549,7 +549,7 @@ Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire 
     </div>
     <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur">
             <h2>Notre adresse :</h2>
-            <p>WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
+            <p style="text-align:center;">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
             </p>
           
     </div>
@@ -566,7 +566,7 @@ Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire 
               <a href="#" class="go_top img-responsive">Remonter</a>
             </div>
             <div class="col-lg-offset-3 col-lg-4 col-md-offset-1 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
-              <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h1>
+              <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h3>
               <ul style="list-style-type:none;">
                 <li class="foot"><a href="https://www.facebook.com/wildcodeschool"><img src="medias/FB.resized.png" class="img-responsive"></a></li>
                 <li class="foot"><a href="https://twitter.com/wildcodeschool"><img src="medias/Twitter.resized.png" class="img-responsive"></a></li>
