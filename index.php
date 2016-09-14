@@ -100,14 +100,15 @@
     <span class="sr-only">Suivant</span>
   </a>
   </div>
+  <span id="anchor-qui"></span>
 	</div>
 
-  <!-- Info entreprise -->
+  <!-- *******************Info entreprise************************ -->
   
   <div class="row top-buffer" > 
-    <div id="anchor-qui"></div>
+    
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-      <img src="medias/chausse-pied-660x440.jpg" class="img-responsive img-rounded imginfo" alt="photo_chausse_pied">
+      <img src="medias/chausse-pied-660x440.jpg" class="img-responsive imginfo" alt="photo_chausse_pied">
     </div>
     <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
     <h2>Qui somme nous ?</h2>
@@ -129,11 +130,16 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
   </div>
   </div>
 
-  <!-------------------------------- Espace Chausse pied ------------------------>
-
+  <!-- ******************* Espace chausse Pied ************************ -->
+  <div class="container-fluid" style="margin-top:50px;">
+    <div class="row">
+      <div class="col-lg-offset-4 col-lg-4">
+          <h2 class="titresection">Les chausses Pieds</h2>
+      </div>
+    </div>
   <div class="row top-buffer ">
 
-  <!------------------------------ Chausse pied en bois ---------------------------------------->
+  <!-- ******************* Chausse Pied Bois ************************ -->
 
     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
       <h2 style="">Nos chausses-pieds en bois</h2>
@@ -177,7 +183,7 @@ AD Bois à Marquette-lez-Lille reste à votre disposition si vous souhaitez obte
       </div>
     </div>
 
-<!------------------------------ Chausse pied en Métal ---------------------------------------->
+<!-- ******************* Chausse Pied Metal ************************ -->
 
     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos chausses-pieds en métal</h2>
@@ -225,7 +231,7 @@ Ce chausse pied inox de petite taille est réellement l'accessoire standard et i
       </div>
 
     </div>
-<!----------------------- Chausse pied Corne ---------->
+<!-- ******************* Chausse Pied Corne ************************ -->
     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos chausses-pieds en corne</h2>
       <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
@@ -271,7 +277,9 @@ Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le 
       </div>
     </div>
   </div>
-<!----------------------- Chausse pied téléscopique ---------->
+
+<!-- ******************* Chausse Pied Telescopique ************************ -->
+
   <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
       <h2 style="">Nos chausses-pieds téléscopiques</h2>
       <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
@@ -317,10 +325,19 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
     </div>
 
    </div>
-
+  </div>
   </div>
 
-  <!-------------------------- Espace Tirebotte ------------------------>
+
+  <!-- ******************* Espace Tirebotte ************************ -->
+
+  <div class="container-fluid" style="margin-top:50px;">
+    <div class="row">
+      <div class="col-lg-offset-4 col-lg-4">
+          <h2 class="titresection">Les Tirebottes</h2>
+      </div>
+    </div>
+  </div>
 
   <div class="row top-buffer tire">
 
@@ -331,7 +348,7 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
       </p>
 
-<!--------------- Bouton de modal ---------------->
+<!-- ******************* Tirebotte en Bois ************************ -->
       <div class="text-center">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte1">
       En savoir plus
@@ -355,8 +372,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
     </div>
   </div>
 </div>
-
     </div>
+
+<!-- ******************* Tirebotte en métal ************************ -->
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <h2 style="">Nos tirebottes en métals</h2>
@@ -396,13 +414,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
       </p>
-      <!--------------- Bouton de modal ---------------->
+  <!-- ******************* Bouton Modal ************************ -->
       <div class="text-center" id="anchor-perso">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte3">
       En savoir plus
       </button></div>
 
-<!----------------------- Modal ---------------------------->
+  <!-- ******************* Modal ************************ -->
 <div class="modal fade" id="tirebotte3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -424,7 +442,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
   </div>
 
-  <!-- Espace Produits personnalisés -->
+  <!-- ******************* Produit Perso ************************ -->
+
+  <div class="container-fluid" style="margin-top:50px;">
+    <div class="row">
+      <div class="col-lg-offset-4 col-lg-4">
+          <h2 class="titresection">Les Produits Personnalisés</h2>
+      </div>
+    </div>
+  </div>
+
 
   <div class="container-fluid">
     <div class="row top-buffer " id="anchor-perso">
@@ -447,7 +474,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
       <div class="modal-body jumb">
         <img src="medias/jumbotron.jpg" class="img-responsive">
 
-        <!------------------- Contenu modal perso ------------>
+<!-- ******************* Contenu modal perso ************************ -->
 
         <p style="text-align: center;"><q>Nous vous proposons dans cette section de choisir, pas à pas, les composants que vous souhaitez retrouver dans votre produit</q></p>
 
@@ -475,11 +502,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
     </div>
   </div>
 
-  <!------------------- Espace Réseaux sociaux ------------------>
-
-
-
-  <!-- Espace Contacte et map --> 
+ 
+  <!-- ******************* Contact et Map ************************ --> 
 
   <div class="row top-buffer">
     
@@ -497,7 +521,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
     <div class="col-lg-offset-2 col-lg-4 col-md-5 col-sm-6 col-xs-12 bloccouleur">
       <h2>Où Nous trouver ?</h2>
-      <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
+        <div>
+          <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
+        </div>
+        <div>
+        </div>
+
     </div>
   </div>
 				
