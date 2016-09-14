@@ -98,11 +98,11 @@
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Suivant</span>
   </a>
-  </div>
-  <span id="anchor-qui" style="display:none;"><br><br></span>
+  </div>  
 	</div>
 
   <!-- *******************Info entreprise************************ -->
+  <div style="margin-bottom:140px; display:hidden;"><span id="anchor-qui"></span></div>
   
   <div class="row top-buffer" > 
     
@@ -113,21 +113,20 @@
       <h2>Qui somme nous ?</h2>
       <p style="padding-bottom: 150px;">
 
-      Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretient et le choix des chausses pieds et autres tirebottes<br>
+      Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretient et le choix des chausses pieds et autres tire bottes<br>
 
-      Nous avons alors décider de fédérer cordonniers, chausseurs et fabricants pour fonder Monsieur Chaussure, premier spécialiste indépendant de l'entretien chaussure.<br><br>
-
-      Les produits proposés aux clients sont testés en usine, les conseils sont approuvés par des professionnels et un service de conseillers reste disponible tous les jours pour tout complément d'informations.<br>
+      Wild Shoes est une société familiale créée en 1927 qui commercialise des chausses-pieds et des tires-bottes pour Homme, Femme et Enfant sur Orléans en contact direct<br>
+      Les produits proposés aux clients sont testés, les conseils sont approuvés par des professionnels et un service de conseillers reste disponible tous les jours pour tout complément d'informations.<br>
 
       Le site www.Wildshoes.com est exclusivement géré par l'équipe Wildshoes. L'absence d'intermédiaire nous permet ainsi de corriger en moins de 24h tous problèmes identifiés par nos internautes.<br><br>
 
-      Nos fournisseurs de matériaux sont exclusivement français et allemand. Les produits que nous vendons sont fabriqués à <strong>100% en France</strong>.
-      Monsieur Chaussure se réserve le droit de refuser un produit qui ne respecte pas le niveau de qualité exigé par Monsieur Chaussure.</p>  
-    <div id="anchor-chausse"></div>
+      Nos fournisseurs de matériaux sont exclusivement français et allemand. Les produits que nous vendons sont fabriqués à <strong>100% en France</strong></p> 
     </div>
 
   </div>
   </div>
+
+  <div style="margin-bottom:140px; display:hidden;"><span id="anchor-chausse"></span></div>
 
   <!-- ******************* Espace chausse Pied ************************ -->
   <div class="container-fluid" style="margin-top:50px;">
@@ -282,7 +281,7 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
       </p>
 
       <!-- Bouton modal -->
-      <div class="text-center" id="anchor-tire">
+      <div class="text-center">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#myModal4">En savoir plus</button>
       </div>
 
@@ -321,13 +320,15 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
   </div>
   </div>
 
+  <div style="margin-bottom:140px; display:hidden;"><span id="anchor-tire"></span></div>
+
 
   <!-- ******************* Espace Tirebotte ************************ -->
 
   <div class="container-fluid" style="margin-top:50px;">
     <div class="row">
       <div class="col-lg-offset-4 col-lg-4">
-          <h2 class="titresection">Les Tirebottes</h2>
+          <h2 class="titresection">Les tire bottes</h2>
       </div>
     </div>
   </div>
@@ -335,7 +336,7 @@ Avec ce chausse pied prestige, optez autant pour un bel objet que pour un access
   <div class="row top-buffer tire">
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <h2 style="">Nos tirebottes en bois</h2>
+      <h2 style="">Nos tire bottes en bois</h2>
       <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
       <p>
 Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Essayez donc notre tire botte en bois !
@@ -353,12 +354,18 @@ Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bi
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Nos tirebottes en bois</h4>
+        <h4 class="modal-title" id="myModalLabel">Nos tire bottes en bois</h4>
       </div>
-      <div class="modal-body">
-        <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
-        <p>Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Petit rappel, la première botte se retire en s’aidant de l’autre botte, mais pour la seconde, c’est souvent une toute autre histoire. Dans cette opération délicate, il n’est pas rare d’y sacrifier une chaussette, quand ce ne sont pas vos mains.<p>
-      </div>
+       <div class="modal-body">
+            <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
+            <h3>Description :</h3>
+            <p>Ce tire bottes prestige fabriqué dans un bois de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+            <h3>Le Bois :</h3>
+            <p>bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+            <h3>Détails :</h3>
+            <p>Longueur : 55 cm</p>
+            <p>Poids : 128g</p>
+          </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
       </div>
@@ -370,12 +377,12 @@ Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bi
 <!-- ******************* Tirebotte en métal ************************ -->
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <h2 style="">Nos tirebottes en métals</h2>
+      <h2 style="">Nos tire bottes en métals</h2>
       <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="tirebotte en métal" />
       <p>
       Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures.Conçu pour pour tout type de chasse. Adapté pour la pêche et l'observation de la faune sauvage. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !
       </p>
-      <!--------------- Bouton de modal ---------------->
+      <!--************************** Bouton de modal ************************************-->
       <div class="text-center">
       <button type="button" class="btn btn-warning btn-lg" data-toggle="modal" data-target="#tirebotte2">
       En savoir plus
@@ -387,12 +394,19 @@ Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bi
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Nos tirebottes en bois</h4>
+        <h4 class="modal-title" id="myModalLabel">Nos tires bottes en Métal</h4>
       </div>
-      <div class="modal-body">
-        <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
-        <p>Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Petit rappel, la première botte se retire en s’aidant de l’autre botte, mais pour la seconde, c’est souvent une toute autre histoire. Dans cette opération délicate, il n’est pas rare d’y sacrifier une chaussette, quand ce ne sont pas vos mains.<p>
-      </div>
+       <div class="modal-body">
+            <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
+            <h3>Description :</h3>
+            <p>Ce tire botte prestige fabriqué dans un métal de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+            <h3>Le Métal :</h3>
+            <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enlever en toute facilité vos chaussures</p>            
+            <h3>Détails :</h3>
+            <p>Longueur : 60 cm</p>
+            <p>Poids : 150g</p>
+            
+          </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
       </div>
@@ -401,11 +415,13 @@ Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bi
 </div>
     </div>
 
+    <!-- ******************* gratoire a botte ************************ -->
+
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-      <h2 style="">Nos grattoir à botte</h2>
-      <img src="medias/grattoir_botte.jpeg" class="img-responsive img-rounded" alt="grattoir à botte" />
+      <h2 style="">Nos gratoires à botte</h2>
+      <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="gratoire à botte" />
       <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id justo posuere aliquam. Morbi auctor, enim vitae commodo dapibus, neque arcu gravida purus, quis pellentesque mi elit id erat. Aenean tellus lorem, semper et velit ut, porttitor mollis enim. Nullam leo sem, pellentesque nec nibh non, imperdiet convallis nisi. Suspendisse facilisis quam ac blandit placerat. Nam tempor turpis tempus euismod ornare. Aenean sed mattis massa. Suspendisse potenti. Etiam condimentum, tellus sed rutrum pulvinar, justo felis blandit mi, vitae aliquet nisl ex dictum sem. Maecenas sagittis risus vel lectus fermentum pharetra. Suspendisse sed augue erat. Nullam odio orci, congue eget hendrerit id, pretium fringilla enim. Etiam gravida arcu in nibh ultricies interdum. Aliquam et ligula vel ex cursus ullamcorper.
+Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire à bottes luxez. Ce tapis résistant en poils de fibre de coco avec cadre métallique galvanisé résiste aux intempéries. Il est très résistant et durable. La saleté restera à votre porte avec notre produit.
       </p>
   <!-- ******************* Bouton Modal ************************ -->
       <div class="text-center" id="anchor-perso">
@@ -419,12 +435,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Nos tirebottes en bois</h4>
+        <h4 class="modal-title" id="myModalLabel">Nos gratoires à botte</h4>
       </div>
-      <div class="modal-body">
-        <img src="medias/grattoir_botte.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
-        <p>Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Petit rappel, la première botte se retire en s’aidant de l’autre botte, mais pour la seconde, c’est souvent une toute autre histoire. Dans cette opération délicate, il n’est pas rare d’y sacrifier une chaussette, quand ce ne sont pas vos mains.<p>
-      </div>
+       <div class="modal-body">
+            <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
+            <h3>Description :</h3>
+            <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
+            <h3>Métal et fibres:</h3>
+            <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
+            <h3>Détails :</h3>
+            <p>Hauteur(cm) 12 centimètres,
+              Longueur(cm) 24 centimètres,
+              Largeur(cm) 16.50 centimètres</p>
+          </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
       </div>
@@ -434,6 +457,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
     </div>
 
   </div>
+
+  <div style="margin-bottom:100px; display:hidden;"><span id="anchor-perso"></span></div>
 
   <!-- ******************* Produit Perso ************************ -->
 
@@ -447,7 +472,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
 
   <div class="container-fluid">
-    <div class="row top-buffer " id="anchor-perso">
+    <div class="row top-buffer " >
       <div class="jumbotron">
         <h1>Produits Personnalisés</h1>
         <p>Si l'envie vous prends, faites vous personnaliser le produit de votre choix en y ajoutant une gravure, en changeant la couleur ou le matériaux et en choisissant ca taille !</p>
@@ -530,7 +555,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel orci id jus
 
       <div class="container-fluid">
 
-          <div class="row" style="background-image:none;">
+          <div class="row">
             <div class="col-lg-1">
               <a href="#" class="go_top img-responsive">Remonter</a>
             </div>
