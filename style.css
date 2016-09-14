@@ -44,7 +44,7 @@
 	padding-left: 10px;
 	}
 	.imgart {padding-top: 10px;}
-	}
+	}	
 
 }
 .navbar
@@ -167,7 +167,7 @@ body
 }
 
 
-@media screen (min-width: 900){.modal-dialog
+@media screen and (min-width: 900){.modal-dialog
 {
   width: 1000px;
 }}
@@ -266,5 +266,9 @@ a:active {
 .modal-dialog
 {
 	height: 100%;
+}
+
+@media screen and (min-width: 200px) and (max-width: 767px) {
+  #slidemobile { display: none; }   /* hide it elsewhere */
 }
 

@@ -66,24 +66,30 @@
     <div class="item active">
       <img src="medias/boisslide.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Atelier au Lab'O </h1>
-      <h2 class="slidemobile">Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
+        <div id="slidemobile">
+          <h1>Atelier au Lab'O </h1>
+          <h2>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
+        </div>
       </div>
     </div>
     
     <div class="item">
       <img src="medias/wood.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Matière Brute </h1>
-      <h2 class="slidemobile">La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
+        <div id="slidemobile">
+          <h1>Matière Brute </h1>
+          <h2>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
+        </div>
       </div>
     </div>
 
     <div class="item">
       <img src="medias/motivation.resized.jpg" class="imgart" alt="Photos de présentation des locaux" style="max-height: 860px;" />
       <div class="carousel-caption">
-      <h1>Coaching de l'équipe </h1>
-      <h2 class="slidemobile">Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>       
+        <div  id="slidemobile">
+          <h1>Coaching de l'équipe </h1>
+          <h2>Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>
+        </div>      
       </div>
     </div>
        
@@ -437,17 +443,17 @@ Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire 
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         <h4 class="modal-title" id="myModalLabel">Nos gratoires à botte</h4>
       </div>
-       <div class="modal-body">
-            <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-            <h3>Description :</h3>
-            <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
-            <h3>Métal et fibres:</h3>
-            <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
-            <h3>Détails :</h3>
-            <p>Hauteur(cm) 12 centimètres,
-              Longueur(cm) 24 centimètres,
-              Largeur(cm) 16.50 centimètres</p>
-          </div>
+      <div class="modal-body">
+          <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
+          <h3>Description :</h3>
+          <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
+          <h3>Métal et fibres:</h3>
+          <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
+          <h3>Détails :</h3>
+          <p>Hauteur(cm) 12 centimètres,
+            Longueur(cm) 24 centimètres,
+            Largeur(cm) 16.50 centimètres</p>
+      </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>        
       </div>
