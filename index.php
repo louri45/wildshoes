@@ -35,9 +35,9 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right font-nav">
               <li class="opt1"><a href="#anchor-qui" class="opt2">Qui sommes Nous ?</a></li>
-              <li class="opt1"><a href="#anchor-chausse" class="opt2">Nos chausses-pied</a></li>
-              <li class="opt1"><a href="#anchor-tire" class="opt2">Nos tirs-botte </a></li>
-              <li class="opt1"><a href="#anchor-perso" class="opt2">Nos produits personnalisé</a></li>
+              <li class="opt1"><a href="#anchor-chausse" class="opt2">Nos chausse-pieds</a></li>
+              <li class="opt1"><a href="#anchor-tire" class="opt2">Nos tire-bottes </a></li>
+              <li class="opt1"><a href="#anchor-perso" class="opt2">Nos produits personnalisés</a></li>
             </ul>     
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -67,7 +67,7 @@
                 <div class="carousel-caption">
                   <div id="slidemobile">
                     <h1>Atelier au Lab'O </h1>
-                    <h2>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualités</h2>
+                    <h2>Image prise dans notre atelier, sur la table de travail de nos Spécialistes. Ici, le savoir-faire s'exprime, pour des produits de qualité</h2>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@
                 <div class="carousel-caption">
                   <div id="slidemobile">
                     <h1>Matière Brute </h1>
-                    <h2>La réalisation de nos produits se fait a partir de produit noble importé depuis la france</h2>
+                    <h2>La réalisation de nos produits se fait à partir de produits nobles certifiés origine France</h2>
                   </div>
                 </div>
               </div>
@@ -87,7 +87,7 @@
               <div class="carousel-caption">
                 <div  id="slidemobile">
                   <h1>Coaching de l'équipe </h1>
-                  <h2>Nous prenons le temps chaque semaine de faire une retrospective dans le but de toujours chercher à nous améliorer.</h2>
+                  <h2>Nous prenons le temps chaque semaine de faire une rétrospective dans le but de toujours chercher à nous améliorer.</h2>
                 </div>      
               </div>
             </div>           
@@ -117,14 +117,14 @@
           <h2 style="font-size:42px;">Qui somme nous ?</h2>
           <p style="padding-bottom: 150px;">
 
-          Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretient et le choix des chausses pieds et autres tire bottes<br><br>
+          Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretien et le choix des chausse-pieds et autres tire-bottes.<br><br>
 
-          Wild Shoes est une société familiale créée en 1927 qui commercialise des chausses-pieds et des tires-bottes pour Homme, Femme et Enfant sur Orléans en contact direct<br><br>
-          Les produits proposés aux clients sont testés, les conseils sont approuvés par des professionnels et un service de conseillers reste disponible tous les jours pour tout complément d'informations.<br><br>
+          Wild Shoes est une société familiale créée en 1927 qui commercialise des chausse-pieds et des tire-bottes pour Homme, Femme et Enfant sur Orléans en vente directe.<br><br>
+          Les produits proposés aux clients sont testés, les conseils sont approuvés par des professionnels et une équipe de responsables de clientèle reste à votre disposition tous les jours de la semaine pour tout complément d'information.<br><br>
 
-          Le site www.Wildshoes.com est exclusivement géré par l'équipe Wildshoes. L'absence d'intermédiaire nous permet ainsi de corriger en moins de 24h tous problèmes identifiés par nos internautes.<br><br>
+          Le site www.wildshoes.com est exclusivement géré par l'équipe Wildshoes. L'absence de prestataire intermédiaire nous permet ainsi de prendre en compte en moins de 24h toute remontée d'information de la part de nos internautes.<br><br>
 
-          Nos fournisseurs de matériaux sont exclusivement français et allemand. Les produits que nous vendons sont fabriqués à <strong>100% en France</strong></p> 
+          Nos fournisseurs de matériaux sont basés exclusivement en France et en Allemagne. Les produits que nous commercialisons sont fabriqués à <strong>100% en France.</strong></p> 
         </div>
 
       </div>
@@ -141,12 +141,12 @@
         </div>
       <div class="row top-buffer ">
 
-      <!-- ******************* Chausse Pied Bois ************************ -->
+      <!-- ******************* Chausse-Pied Bois ************************ -->
 
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-          <h2 style="">Nos chausses-pieds en bois</h2>
+          <h2 style="">Nos chausse-pieds en bois</h2>
           <img src="medias/chausse-pied-prestige.resized.jpg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
-          <p>Avec ce <strong>chausse pied prestige</strong>, optez autant pour un bel objet que pour un <strong>accessoire résistant</strong>, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides</p>
+          <p>Avec ce <strong>chausse-pied Prestige</strong>, optez autant pour un bel objet que pour un <strong>accessoire résistant</strong>, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides</p>
 
           <!-- Bouton modal -->
           <div class="text-center">
@@ -165,7 +165,7 @@
               <div class="modal-body">
                 <img src="medias/chausse-pied-prestige.jpg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                  <p>Ce chausse pied prestige fabriqué dans un bois d'acacia de grande qualité vous permet d'enfiler toutes vos chaussures et bottes en cuir même rigide en toute facilité. </p>
+                  <p>Ce chausse-pied Prestige fabriqué en bois d'acacia de   qualité prémium vous permet d'enfiler toutes vos chaussures et bottes en cuir même les plus rigides, en toute facilité. </p>
                 <h3>Le bois :</h3>
                   <p>Le bois d'acacia qui le compose a la particularité d'être très résistant et d'avoir une réelle durabilité dans le temps. </p>
                 <h3>Finition :</h3>
@@ -187,10 +187,10 @@
     <!-- ******************* Chausse Pied Metal ************************ -->
 
         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-          <h2 style="">Nos chausses-pieds en métal</h2>
+          <h2 style="">Nos chausse-pieds en métal</h2>
           <img src="medias/chausse_pied_metal.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Ce chausse pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse pied d'épouser parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage. 
+    Ce chausse-pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse-pied d'épouser parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage. 
           </p>
 
           <!-- Bouton modal -->
@@ -210,7 +210,7 @@
               <div class="modal-body">
                 <img src="medias/model_visuel_ws_600x600_metal.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                  <p>Chausse pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>              
+                  <p>Chausse-pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>              
                 <h3>Le Métal :</h3>
                   <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide </p>
                 <h3>Finition :</h3>
@@ -233,10 +233,10 @@
         </div>
     <!-- ******************* Chausse Pied Corne ************************ -->
         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-          <h2 style="">Nos chausses-pieds en corne</h2>
+          <h2 style="">Nos chausse-pieds en corne</h2>
           <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Ce chausse pied en corne est le plus pratique de nos chausse pieds car c'est le plus petit, le plus léger et le plus économique d'entre eux. C'est un accessoire indispensable pour enfiler vos chaussures ainsi que vos bottes plus simplement, sans faire de pli et sans abîmer les contreforts de vos souliers
+    Ce chausse-pied en corne est le plus pratique de nos chausse pieds car c'est le plus petit, le plus léger et le plus économique d'entre eux. C'est un accessoire indispensable pour enfiler vos chaussures ainsi que vos bottes plus simplement, sans faire de pli et sans abîmer les contreforts de vos souliers
           </p>
 
     <!-- Bouton modal -->
@@ -256,11 +256,11 @@
               <div class="modal-body">
                 <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied_corne" />
                 <h3>Description :</h3>              
-                  <p>Ce chausse pied a une forme incurvée qui vous permet de le prendre en main simplement et d'épouser la forme du talon afin de ne pas abîmer ni votre talon, ni la chaussure en la gardant ouverte. La surface lisse et sans aspérité du plastique permet de glisser votre talon facilement dans la chaussure.</p>
+                  <p>Ce chausse-pied a une forme incurvée qui vous permet de le prendre en main simplement et d'épouser la forme du talon afin de ne pas abîmer ni votre talon, ni la chaussure en la gardant ouverte. La surface lisse et sans aspérité du plastique permet de glisser votre talon facilement dans la chaussure.</p>
                 <h3>La Corne :</h3>
                   <p>Il est fabriqué artisanalement dans de la corne, matière 100% naturelle. Chaque chausse-pied est unique et présente des couleurs variées, laissant transparaître la beauté d'une matière intemporelle. </p>
                 <h3>Finition :</h3>
-                  <p> La très belle finition vernie de ce chausse pied en corne en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
+                  <p> La très belle finition vernie de ce chausse-pied en corne en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
                 <h3>Détails :</h3>
                   <p>Longueur : 15,7 cm</p>
                   <p>Poids : 15 g</p>
@@ -278,10 +278,10 @@
     <!-- ******************* Chausse Pied Telescopique ************************ -->
 
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-          <h2 style="">Nos chausses-pieds téléscopiques</h2>
+          <h2 style="">Nos chausse-pieds téléscopiques</h2>
           <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Avec ce chausse pied prestige, optez autant pour un bel objet que pour un accessoire résistant, dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme les bottes d'équitation. L'extrémité de ce chausse pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.
+    Avec ce chausse-pied prestige, optez autant pour un bel objet que pour un accessoire résistant dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme par exemple vos bottes d'équitation. L'extrémité de ce chausse-pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.
           </p>
 
           <!-- Bouton modal -->
@@ -301,7 +301,7 @@
               <div class="modal-body">
                 <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                <p>Ce chausse pied prestige fabriqué dans un métal de grande qualité vous permet d'enfiler toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+                <p>Ce chausse-pied Prestige fabriqué dans un métal de grande qualité vous permet d'enfiler toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
                 <h3>Le Métal :</h3>
                 <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide</p>
                 <h3>Finition :</h3>
@@ -343,7 +343,7 @@
           <h2 style="">Nos tire bottes en bois</h2>
           <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="Tirebotte en bois" />
           <p>
-    Revenir du jardin avec la terre qui colle aux semelles de ses bottes, il faut bien l’avouer, ce n’est pas très plaisant. Mais enlever ses bottes crottées peut se transformer en un véritable cauchemar pour quiconque n’est pas équipé. Essayez donc notre tire botte en bois !
+    Revenir du jardin avec de la terre collée aux semelles de ses bottes, il faut bien l’avouer, n'est pas très plaisant. Chercher ensuite à enlever ses bottes crottées peut se transformer en un véritable calvaire pour quiconque n’étant pas équipé. Essayez donc notre tire-botte en bois !
           </p>
 
     <!-- ******************* Tirebotte en Bois ************************ -->
@@ -363,7 +363,7 @@
            <div class="modal-body">
                 <img src="medias/tirebotte_bois.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                <p>Ce tire bottes prestige fabriqué dans un bois de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+                <p>Ce tire-botte Prestige fabriqué dans un bois de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
                 <h3>Le Bois :</h3>
                 <p>bois rouge marbré de noir en fait véritablement un objet de collection qui résiste très bien au vieillissement.</p>
                 <h3>Détails :</h3>
@@ -384,7 +384,7 @@
           <h2 style="">Nos tire bottes en métals</h2>
           <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="tirebotte en métal" />
           <p>
-          Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures.Conçu pour pour tout type de chasse. Adapté pour la pêche et l'observation de la faune sauvage. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !
+          Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire-botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures. Conçu pour pour tout type de chasse. Adapté pour la pêche et l'observation en milieu naturel. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !
           </p>
           <!--************************** Bouton de modal ************************************-->
           <div class="text-center">
@@ -403,7 +403,7 @@
            <div class="modal-body">
                 <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                <p>Ce tire botte prestige fabriqué dans un métal de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+                <p>Ce tire-botte Prestige fabriqué dans un métal de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
                 <h3>Le Métal :</h3>
                 <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enlever en toute facilité vos chaussures</p>            
                 <h3>Détails :</h3>
@@ -419,12 +419,12 @@
     </div>
         </div>
 
-        <!-- ******************* gratoire a botte ************************ -->
+        <!-- ******************* grattoir à bottes ************************ -->
 
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-          <h2 style="">Nos gratoires à botte</h2>
+          <h2 style="">Nos grattoirs à bottes</h2>
           <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="gratoire à botte" />
-          <p>Protéger votre maison et tapis de la boue sur vos chaussures avec nos gratoire à bottes luxez. Ce tapis résistant en poils de fibre de coco avec cadre métallique galvanisé résiste aux intempéries. Il est très résistant et durable. La saleté restera à votre porte avec notre produit.
+          <p>Protégez votre maison et tapis de la boue sur vos chaussures avec notre grattoir à bottes modèle luxe. Ce tapis très résistant et durable, en poils de fibre de coco avec cadre métallique galvanisé, résiste aux intempéries. Grâce à notre produit, la saleté restera à votre porte.
           </p>
 
             <!-- ******************* Bouton Modal ************************ -->
@@ -440,14 +440,14 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Nos gratoires à botte</h4>
+                    <h4 class="modal-title" id="myModalLabel">Nos grattoirs à bottes</h4>
                   </div>
                   <div class="modal-body">
                       <img src="medias/gratoire_botte.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                       <h3>Description :</h3>
-                      <p>Ce gratoire à botte, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté a votre porte</p>
+                      <p>Ce grattoir à bottes, fabriqué dans un métal de grande qualité, vous permet de laisser la saleté à votre porte</p>
                       <h3>Métal et fibres:</h3>
-                      <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Cocos pour faciliter le nettoyage</p>            
+                      <p>L'acier inoxydable qui le constitue le rend extrêmement solide, et est couplé avec de la fibre de Coco pour faciliter le nettoyage</p>            
                       <h3>Détails :</h3>
                       <p>Hauteur(cm) 12 centimètres,
                         Longueur(cm) 24 centimètres,
@@ -479,7 +479,7 @@
         <div class="row top-buffer " >
           <div class="jumbotron">
             <h1>Produits Personnalisés</h1>
-            <p>Si l'envie vous prends, faites vous personnaliser le produit de votre choix en y ajoutant une gravure, en changeant la couleur ou le matériaux et en choisissant ca taille !</p>
+            <p>Si l'envie vous prends, faites vous personnaliser le produit de votre choix en y ajoutant une gravure, en changeant la couleur ou le matériau et en choisissant sa taille !</p>
             <!-- Trigger the modal with a button -->
     <button type="button" class="btn btn-info btn-lg btn-warning" data-toggle="modal" data-target="#myModaljumbo">Découvrez toutes nos options !</button>
 
@@ -542,12 +542,12 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
-          <h2>Où Nous trouver ?</h2>
+          <h2>Où nous trouver ?</h2>
           <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
         </div>
         <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur">
                 <h2>Notre adresse :</h2>
-                <p style="text-align:center;">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignon<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
+                <p style="text-align:center;">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignons<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
                 </p>
               
         </div>
