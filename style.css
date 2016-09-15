@@ -292,3 +292,9 @@ a:active {
 	width: 400px;
  }
 
+.titresection, h2, h3, h1
+{
+	text-shadow: 3px 2px black; 
+}
+
+
