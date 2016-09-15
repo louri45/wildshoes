@@ -114,7 +114,7 @@
           <img src="medias/chausse-pied-660x440.jpg" class="img-responsive imginfo" alt="photo_chausse_pied">
         </div>
         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-          <h2>Qui somme nous ?</h2>
+          <h2 style="font-size:42px;">Qui somme nous ?</h2>
           <p style="padding-bottom: 150px;">
 
           Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretient et le choix des chausses pieds et autres tire bottes<br><br>
@@ -136,7 +136,7 @@
       <div class="container-fluid" style="margin-top:50px;">
         <div class="row">
           <div class="col-lg-offset-4 col-lg-4">
-              <h2 class="titresection">Les chausses Pieds</h2>
+              <h2 class="titresection" style="font-size:42px;">Les chausses Pieds</h2>
           </div>
         </div>
       <div class="row top-buffer ">
@@ -332,7 +332,7 @@
       <div class="container-fluid" style="margin-top:50px;">
         <div class="row">
           <div class="col-lg-offset-4 col-lg-4">
-              <h2 class="titresection">Les tire bottes</h2>
+              <h2 class="titresection" style="font-size:42px;">Les tire bottes</h2>
           </div>
         </div>
       </div>
@@ -469,7 +469,7 @@
       <div class="container-fluid" style="margin-top:50px;">
         <div class="row">
           <div class="col-lg-offset-4 col-lg-4">
-              <h2 class="titresection">Les Produits Personnalisés</h2>
+              <h2 class="titresection" style="font-size:42px;">Les Produits Personnalisés</h2>
           </div>
         </div>
       </div>

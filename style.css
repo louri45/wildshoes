@@ -159,11 +159,13 @@ body
 
 .jumbotron 
 { 
-	color:black; margin-bottom: 0px
+	color: black;
 	background: red;
-	margin-bottom: 0px;
-	background-image: url("medias/cool-leather-wallpaper-1920x1200.png");
+	margin-bottom: 0px;	
+	background : url("medias/cool-leather-wallpaper-1920x1200.png") no-repeat;
+	background-size: 100% 100%;
 	color: white;
+	
 }
 
 
@@ -236,7 +238,7 @@ a:link {
 a:visited {
     color: grey;
 }
-
+ 
 /* mouse over link */
 a:hover {
     color: white;
