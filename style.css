@@ -188,6 +188,8 @@ p
 { 
 	font-family: arial;
 	text-align: left;
+	padding-left: 10px;
+
  }
 
 h3
@@ -271,6 +273,22 @@ a:active {
 }
 
 @media screen and (min-width: 200px) and (max-width: 767px) {
-  #slidemobile { display: none; }   /* hide it elsewhere */
+  #slidemobile 
+  { 
+  	display: none;
+  	}
+  .osm 
+  { 
+  	margin-left: auto;
+  	margin-right: auto;
+  	height: 400px;
+	width: 400px;
+  	 }   /* hide it elsewhere */
 }
+
+.osm
+{ 
+	height: 400px;
+	width: 400px;
+ }
 
