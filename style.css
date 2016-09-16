@@ -281,20 +281,36 @@ a:active {
   { 
   	margin-left: auto;
   	margin-right: auto;
-  	height: 400px;
-	width: 400px;
+  	height: 280px;
+	width: 280px;
   	 }   /* hide it elsewhere */
 }
 
 .osm
 { 
+
 	height: 400px;
-	width: 400px;
+	width: 400PX;
  }
 
 .titresection, h2, h3, h1
 {
 	text-shadow: 3px 2px black; 
+}
+
+.modal-body h3
+{
+	text-shadow: none;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1280px) {
+
+	.imginfo 
+	{
+		padding-top: 50%;
+		
+	}
+
 }
 
 

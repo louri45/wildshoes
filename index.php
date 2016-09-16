@@ -44,7 +44,7 @@
       </nav>
     </header>
 
-    <!-- ******************************* Tout ce qui est au dessus de ça a été vérifié **************************** -->
+    
 
     <section>
     			<div class="container-fluid">
@@ -105,6 +105,8 @@
       </div>  
     	</div>
 
+      <!-- ******************************* Tout ce qui est au dessus de ça a été vérifié **************************** -->
+
       <!-- *******************Info entreprise************************ -->
       <div style="margin-bottom:140px; display:hidden;"><span id="anchor-qui"></span></div>
       
@@ -115,11 +117,14 @@
         </div>
         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
           <h2 style="font-size:42px;">Qui somme nous ?</h2>
-          <p style="padding-bottom: 150px;">
+
+          <p style="padding-bottom: 50px;">
 
           Wildshoes est né de la passion d'un entrepreneur ne trouvant pas de produits de qualité en commerce ou sur le Web, ni même de véritables conseils pour l'entretien et le choix des chausse-pieds et autres tire-bottes.<br><br>
 
+
           Wild Shoes est une société familiale créée en 1927 qui commercialise des chausse-pieds et des tire-bottes pour Homme, Femme et Enfant sur Orléans en vente directe.<br><br>
+          <img src="http://www.labeige.com/Files/111627/Img/19/made-in-Francebleublancrouge.png" alt="" style="float:right; width:200px; margin-left:10px;" class="img-responsive">
           Les produits proposés aux clients sont testés, les conseils sont approuvés par des professionnels et une équipe de responsables de clientèle reste à votre disposition tous les jours de la semaine pour tout complément d'information.<br><br>
 
           Le site www.wildshoes.com est exclusivement géré par l'équipe Wildshoes. L'absence de prestataire intermédiaire nous permet ainsi de prendre en compte en moins de 24h toute remontée d'information de la part de nos internautes.<br><br>
@@ -190,7 +195,7 @@
           <h2 style="">Nos chausse-pieds en métal</h2>
           <img src="medias/chausse_pied_metal.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Ce chausse-pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse-pied d'épouser parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage. 
+    Ce chausse-pied inox de petite taille est réellement l'accessoire standard et indispensable pour tout amateur de belles chaussures. Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au chausse-pied d'épouser [..] 
           </p>
 
           <!-- Bouton modal -->
@@ -210,7 +215,7 @@
               <div class="modal-body">
                 <img src="medias/model_visuel_ws_600x600_metal.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                  <p>Chausse-pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>              
+                  <p>[...] parfaitement votre talon sans compromettre la qualité du cuir de vos chaussures lors de l'enfilage.Chausse-pied inox petit modèle pour vous aider à enfiler rapidement et sans effort toutes vos chaussures basses.</p>              
                 <h3>Le Métal :</h3>
                   <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide </p>
                 <h3>Finition :</h3>
@@ -236,7 +241,7 @@
           <h2 style="">Nos chausse-pieds en corne</h2>
           <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Ce chausse-pied en corne est le plus pratique de nos chausse pieds car c'est le plus petit, le plus léger et le plus économique d'entre eux. C'est un accessoire indispensable pour enfiler vos chaussures ainsi que vos bottes plus simplement, sans faire de pli et sans abîmer les contreforts de vos souliers
+    Ce chausse-pied en corne est le plus pratique de nos chausse pieds car c'est le plus petit, le plus léger et le plus économique d'entre eux. C'est un accessoire indispensable pour enfiler vos chaussures ainsi que vos bottes plus simplement [..]
           </p>
 
     <!-- Bouton modal -->
@@ -256,7 +261,7 @@
               <div class="modal-body">
                 <img src="medias/model_visuel_ws_600x600_corne.png" class="img-responsive img-rounded" alt="photo_chausse_pied_corne" />
                 <h3>Description :</h3>              
-                  <p>Ce chausse-pied a une forme incurvée qui vous permet de le prendre en main simplement et d'épouser la forme du talon afin de ne pas abîmer ni votre talon, ni la chaussure en la gardant ouverte. La surface lisse et sans aspérité du plastique permet de glisser votre talon facilement dans la chaussure.</p>
+                  <p>[...], sans faire de pli et sans abîmer les contreforts de vos souliers.Ce chausse-pied a une forme incurvée qui vous permet de le prendre en main simplement et d'épouser la forme du talon afin de ne pas abîmer ni votre talon, ni la chaussure en la gardant ouverte. La surface lisse et sans aspérité du plastique permet de glisser votre talon facilement dans la chaussure.</p>
                 <h3>La Corne :</h3>
                   <p>Il est fabriqué artisanalement dans de la corne, matière 100% naturelle. Chaque chausse-pied est unique et présente des couleurs variées, laissant transparaître la beauté d'une matière intemporelle. </p>
                 <h3>Finition :</h3>
@@ -281,7 +286,7 @@
           <h2 style="">Nos chausse-pieds téléscopiques</h2>
           <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
           <p>
-    Avec ce chausse-pied prestige, optez autant pour un bel objet que pour un accessoire résistant dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir, même rigides, comme par exemple vos bottes d'équitation. L'extrémité de ce chausse-pied a la forme parfaite pour épouser votre talon et l'accompagner en douceur dans la chaussure, mais sans jamais déformer ou créer des plis dans le cuir.
+    Avec ce chausse-pied prestige, optez autant pour un bel objet que pour un accessoire résistant dont la grande taille le rend parfait pour enfiler toutes vos chaussures en cuir tout en restant assis, ou pour vous aider à enfiler vos bottes en cuir [..]
           </p>
 
           <!-- Bouton modal -->
@@ -301,7 +306,7 @@
               <div class="modal-body">
                 <img src="medias/téléscopique.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                <p>Ce chausse-pied Prestige fabriqué dans un métal de grande qualité vous permet d'enfiler toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+                <p>[..] Ce chausse-pied Prestige fabriqué dans un métal de grande qualité vous permet d'enfiler toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
                 <h3>Le Métal :</h3>
                 <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enfiler en toute facilité vos chaussures même en cuir rigide</p>
                 <h3>Finition :</h3>
@@ -384,7 +389,7 @@
           <h2 style="">Nos tire bottes en métals</h2>
           <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="tirebotte en métal" />
           <p>
-          Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire-botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures. Conçu pour pour tout type de chasse. Adapté pour la pêche et l'observation en milieu naturel. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !
+          Sa forme très ergonomique vous assure à la fois une bonne prise en main et permet au tire-botte d'extraire parfaitement votre pied sans compromettre la qualité du cuir de vos chaussures. Conçu pour pour tout type de chasse. [...]
           </p>
           <!--************************** Bouton de modal ************************************-->
           <div class="text-center">
@@ -403,7 +408,7 @@
            <div class="modal-body">
                 <img src="medias/tirebotte_metal.jpeg" class="img-responsive img-rounded" alt="photo_chausse_pied" />
                 <h3>Description :</h3>
-                <p>Ce tire-botte Prestige fabriqué dans un métal de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
+                <p>[..] Adapté pour la pêche et l'observation en milieu naturel. Retirer vos bottes très facilement après la chasse avec notre modéle Métal !Ce tire-botte Prestige fabriqué dans un métal de grande qualité vous permet d'enlever toutes vos chaussures et bottes sans même devoir vous pencher ! </p>
                 <h3>Le Métal :</h3>
                 <p>L'acier inoxydable qui le constitue le rend extrêmement solide pour vous permettre d'enlever en toute facilité vos chaussures</p>            
                 <h3>Détails :</h3>
@@ -529,7 +534,7 @@
 
       <div class="row top-buffer">
         
-        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 bloccouleur">
           <h2>Nous Contacter</h2>
           <form action="" method="POST" enctype="multipart/form-data" class="formulaire">
             <input name="action" value="submit" type="hidden"> Votre Nom:<br>
@@ -541,16 +546,11 @@
           </form>
         </div>
 
-        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
-<<<<<<< HEAD
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 bloccouleur">
           <h2>Où Nous trouver ?</h2>
-          <iframe class="osm" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
-=======
-          <h2>Où nous trouver ?</h2>
           <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=1.889224648475647%2C47.891913313092054%2C1.897480487823486%2C47.894941907264766&amp;layer=mapnik&amp;marker=47.893429430772514%2C1.893353909254074" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=47.89343&amp;mlon=1.89335#map=18/47.89343/1.89335" class="btn-warning">Voir en plus grand </a></small>
->>>>>>> ajout-texte
         </div>
-        <div class="col-lg-4 col-sm-6 col-xs-12 bloccouleur">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 bloccouleur">
                 <h2>Notre adresse :</h2>
                 <p style="text-align:center;">WILDSHOES au Lab'o<br/><br/>3 rue des jolis lapins mignons<br/><br/>45000 - ORLEANS<br/><br/>Tel : 08.10.81.08.10 (Appels non sur-taxés)<br/>
                 </p>
@@ -564,18 +564,15 @@
 
       <div class="container-fluid">
 
-          <div class="row">
-            <div class="col-lg-1">
-              <a href="#" class="go_top img-responsive">Remonter</a>
-            </div>
-            <div class="col-lg-offset-3 col-lg-4 col-md-offset-1 col-md-4 col-sm-offset-2 col-sm-8 col-xs-12">
+          <div class="row">            
+            
               <h3 style="text-align:center;"><span class="glyphicon glyphicon-user">  Retrouvez nous sur :</span></h3>
-              <ul style="list-style-type:none;">
+              <ul style="list-style-type:none; text-align:center;">
                 <li class="foot"><a href="https://www.facebook.com/wildcodeschool"><img src="medias/FB.resized.png" class="img-responsive"></a></li>
                 <li class="foot"><a href="https://twitter.com/wildcodeschool"><img src="medias/Twitter.resized.png" class="img-responsive"></a></li>
                 <li class="foot"><a href="https://www.linkedin.com/edu/wild-code-school-192048"><img src="medias/linkedin.resized.png" class="img-responsive"></a></li>                
               </ul>
-            </div>            
+                        
           </div>
 
           <div class="row" style="background-image:none;">
@@ -583,6 +580,9 @@
               <p style="text-align:center;">Copyright 2016 - Wildshoes - Wild Code School</p>
             </div>
           </div>
+      </div>
+      <div class="col-lg-1">
+              <a href="#" class="go_top img-responsive">Remonter</a>
       </div>
     
 		</footer>
